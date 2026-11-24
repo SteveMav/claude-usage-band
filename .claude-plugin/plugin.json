@@ -1,0 +1,8 @@
+{
+  "name": "usage-band",
+  "version": "0.1.0",
+  "description": "Barre au-dessus du prompt : contexte utilisé, coût de la session, quotas 5h et semaine avec temps restant",
+  "author": { "name": "SteveMav" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
